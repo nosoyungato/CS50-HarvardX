@@ -1,2 +1,13 @@
 Computer Science is about solving problems. There are inputs (what you will solve) and outputs (the solution). 
 
+We use the decimal system where powers of ten are used. Computers us binary numbers where powers of two are used. 
+
+In decimal system this is how you show number three
+
+0 0 3
+
+In binary, you show it like this
+
+0 1 1
+
+Because the second space is 2^1 = 2 and each space (each bit) can only be 0 or 1
