@@ -1,0 +1,13 @@
+Código Fuente --> Compilador --> 
+
+xxxxxxx
+
+xxxxxxx
+
+$ clang -0 hello hello.c //compila y cambia el nombre a "hello"
+$ ./hello
+hello, world
+
+Otra forma (más fácil) de compilar:
+$ make hello //inicia un compilador
+$ ./hello
