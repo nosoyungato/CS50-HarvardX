@@ -11,3 +11,15 @@ hello, world
 Another (easier) way to compile:
 $ make hello //program that triggers a compiler
 $ ./hello
+hello, world
+
+xxxxxxx
+
+In this lesson we learned:
+-The C version of Scratch programming blocks
+-Data types
+-Escape sequences
+-Difference between "=" and "=="
+-Switch
+-Create our own function
+
