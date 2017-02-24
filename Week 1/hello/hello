@@ -1,0 +1,19 @@
+//we tell the program to include the contests of the header file stdio.h
+#include <stdio.h>
+
+int main (void)
+{
+    printf("hello, world\n");
+}
+
+xxxxxxx
+
+~/workspace/pset1/ (master) $ make hello
+clang -fsanitize=integer -fsanitize=undefined -ggdb3 -O0 -std=c11 -Wall -Werror -Wextra -Wno-sign-compare -Wshadow    hello.c  -lcrypt -lcs50 -lm -o hello
+~/workspace/pset1/ (master) $ ./hello
+hello, world
+~/workspace/pset1/ (master) $ 
+
+xxxxxx
+
+Header file: File with extentension .h that contains C functions. The functions of these files can be shared with he programs we make so we don't have to write the functions again.
