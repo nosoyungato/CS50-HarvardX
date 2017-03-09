@@ -1,0 +1,24 @@
+//Let's make programms with error so we can learn to detect them by printing messages
+
+   int main(void)
+  {
+    for (int i = 0; i <= 10; i++)
+    {
+      printf("#\n");  
+    }
+  }
+ 
+ xxxxxx
+ 
+ Printing messages in the middle of our programm is an easy way of seeing what our programm is doing
+ 
+ xxxxxx
+ 
+ This week we learned important functions like:
+
+  - get_char
+  - get_double
+  - get_float
+  - get_int
+  - get_long_long
+  - get_string
