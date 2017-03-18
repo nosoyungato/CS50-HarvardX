@@ -1,6 +1,40 @@
  In Week 2's assignment, we'll learn to encode and decode a message
  
+ xxxxxx
  
+ argv[] <--> array of strings
+ String <--> array of characters
+
+
+ ./argv0 Zamyla <--> array os size two
+ 
+ xxxxxx argv0
+ 
+ int main(int argc, string argv[])
+ {
+  if()
+  {
+  
+  }
+  else
+  {
+  
+  }
+ }
+ 
+ xxxxxx argv2
+ 
+ #include <string.h>
+ 
+ for
+ {
+  // iterate over characters in current string
+  for (int j = 0, n = strlen(argv[i]; j < n; j++)
+  {
+   // print j'th character
+   
+  }
+ }
  
  xxxxxx
  
@@ -8,4 +42,5 @@
  
  - Function: toupper
  - Strings in the computer's memory
-  
+ - To pass arguments to the programm at the prompt
+ - "int main" means the programm is always returning a number. Secretly, it returns "0"
